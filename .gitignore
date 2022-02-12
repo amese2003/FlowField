@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Flow/UserSettings
+/Flow/Temp
+/Flow/Packages
+/Flow/obj/Debug
+/Flow/Logs
+/Flow/Library
